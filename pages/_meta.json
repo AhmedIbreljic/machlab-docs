@@ -2,7 +2,7 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "rocket": "Rockets", 
+  "Rockets": "Rockets", 
   "about": {
     "title": "About",
     "type": "page"
