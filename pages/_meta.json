@@ -1,8 +1,7 @@
 {
   "index": "Introduction",
+  "rockets": "Model Rockets", 
   "another": "Another Page",
-  "rockets": "Model Rockets",
-  "another": "Model Rockets 2", 
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
